@@ -1,5 +1,13 @@
 # Real-Time Operating System (RTOS) Demo — ESP32 FreeRTOS
 
+**Author:** Pratham Pathak
+
+**Intern ID:** CITS2620
+
+**Internship:** CodTech IT Solutions Pvt. Ltd.
+
+**Project duration:** 		11 July – 20 July 2026
+
 A multi-task demo that makes the ESP32's underlying FreeRTOS explicit,
 covering the primitives you're expected to know for embedded interviews:
 tasks, queues, mutexes, counting semaphores, priorities, dual-core
